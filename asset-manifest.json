@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-hw-5.1-cards/static/css/main.cd85616d.chunk.css",
+    "main.js": "/ra-hw-5.1-cards/static/js/main.8f4774ed.chunk.js",
+    "main.js.map": "/ra-hw-5.1-cards/static/js/main.8f4774ed.chunk.js.map",
+    "runtime-main.js": "/ra-hw-5.1-cards/static/js/runtime-main.4bfef591.js",
+    "runtime-main.js.map": "/ra-hw-5.1-cards/static/js/runtime-main.4bfef591.js.map",
+    "static/js/2.28959ea1.chunk.js": "/ra-hw-5.1-cards/static/js/2.28959ea1.chunk.js",
+    "static/js/2.28959ea1.chunk.js.map": "/ra-hw-5.1-cards/static/js/2.28959ea1.chunk.js.map",
+    "static/js/3.a47baf4f.chunk.js": "/ra-hw-5.1-cards/static/js/3.a47baf4f.chunk.js",
+    "static/js/3.a47baf4f.chunk.js.map": "/ra-hw-5.1-cards/static/js/3.a47baf4f.chunk.js.map",
+    "index.html": "/ra-hw-5.1-cards/index.html",
+    "static/css/main.cd85616d.chunk.css.map": "/ra-hw-5.1-cards/static/css/main.cd85616d.chunk.css.map",
+    "static/js/2.28959ea1.chunk.js.LICENSE.txt": "/ra-hw-5.1-cards/static/js/2.28959ea1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bfef591.js",
+    "static/js/2.28959ea1.chunk.js",
+    "static/css/main.cd85616d.chunk.css",
+    "static/js/main.8f4774ed.chunk.js"
+  ]
+}
